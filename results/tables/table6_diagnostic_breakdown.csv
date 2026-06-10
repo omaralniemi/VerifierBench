@@ -1,0 +1,6 @@
+Condition,Agent,Target-fault tasks,Diagnostic counts,SLA,True-SLA
+E2 wrong-tool/op,Correct,0,E0=1497,,
+E2 wrong-tool/op,SelfCheck,0,E0=1497,,
+Missing-event skip,Skip,257,E0=1112; E1=385,1.0,1.0
+E2 wrong-tool/op,WrongTool,90,E0=1407; E2=90,1.0,1.0
+E3 wrong-argument,WrongTool,90,E0=1022; E3=475,1.0,1.0

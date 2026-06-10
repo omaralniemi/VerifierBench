@@ -1,0 +1,5 @@
+run_id,agent,ETR,avg_calls_per_task
+VBrun_scale_microbench_300_2026-02-11T064352Z_seed20260211,AgentCorrect,1.0,4.99
+VBrun_scale_microbench_300_2026-02-11T064352Z_seed20260211,AgentSelfCheck,1.0,4.99
+VBrun_scale_microbench_300_2026-02-11T064352Z_seed20260211,AgentSkip,0.742819,4.99
+VBrun_scale_microbench_300_2026-02-11T064352Z_seed20260211,AgentWrongTool,1.0,4.99

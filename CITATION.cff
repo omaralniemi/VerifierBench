@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: VerifierBench Reproducibility Package
+message: Please cite the related VerifierBench article when using this archive.
+type: software
+authors:
+  - name: VerifierBench authors
+year: 2026
+license: MIT

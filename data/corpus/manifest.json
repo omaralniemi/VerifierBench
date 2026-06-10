@@ -1,0 +1,206 @@
+{
+  "seed": 20260211,
+  "n_docs": 50,
+  "docs": [
+    {
+      "doc_id": "DOC-000",
+      "text": "DOC-000 :: alpha beta gamma. key0 key0 seed20260211."
+    },
+    {
+      "doc_id": "DOC-001",
+      "text": "DOC-001 :: alpha beta gamma. key1 key1 seed20260211."
+    },
+    {
+      "doc_id": "DOC-002",
+      "text": "DOC-002 :: alpha beta gamma. key2 key2 seed20260211."
+    },
+    {
+      "doc_id": "DOC-003",
+      "text": "DOC-003 :: alpha beta gamma. key3 key3 seed20260211."
+    },
+    {
+      "doc_id": "DOC-004",
+      "text": "DOC-004 :: alpha beta gamma. key4 key4 seed20260211."
+    },
+    {
+      "doc_id": "DOC-005",
+      "text": "DOC-005 :: alpha beta gamma. key5 key5 seed20260211."
+    },
+    {
+      "doc_id": "DOC-006",
+      "text": "DOC-006 :: alpha beta gamma. key6 key6 seed20260211."
+    },
+    {
+      "doc_id": "DOC-007",
+      "text": "DOC-007 :: alpha beta gamma. key0 key7 seed20260211."
+    },
+    {
+      "doc_id": "DOC-008",
+      "text": "DOC-008 :: alpha beta gamma. key1 key8 seed20260211."
+    },
+    {
+      "doc_id": "DOC-009",
+      "text": "DOC-009 :: alpha beta gamma. key2 key9 seed20260211."
+    },
+    {
+      "doc_id": "DOC-010",
+      "text": "DOC-010 :: alpha beta gamma. key3 key10 seed20260211."
+    },
+    {
+      "doc_id": "DOC-011",
+      "text": "DOC-011 :: alpha beta gamma. key4 key0 seed20260211."
+    },
+    {
+      "doc_id": "DOC-012",
+      "text": "DOC-012 :: alpha beta gamma. key5 key1 seed20260211."
+    },
+    {
+      "doc_id": "DOC-013",
+      "text": "DOC-013 :: alpha beta gamma. key6 key2 seed20260211."
+    },
+    {
+      "doc_id": "DOC-014",
+      "text": "DOC-014 :: alpha beta gamma. key0 key3 seed20260211."
+    },
+    {
+      "doc_id": "DOC-015",
+      "text": "DOC-015 :: alpha beta gamma. key1 key4 seed20260211."
+    },
+    {
+      "doc_id": "DOC-016",
+      "text": "DOC-016 :: alpha beta gamma. key2 key5 seed20260211."
+    },
+    {
+      "doc_id": "DOC-017",
+      "text": "DOC-017 :: alpha beta gamma. key3 key6 seed20260211."
+    },
+    {
+      "doc_id": "DOC-018",
+      "text": "DOC-018 :: alpha beta gamma. key4 key7 seed20260211."
+    },
+    {
+      "doc_id": "DOC-019",
+      "text": "DOC-019 :: alpha beta gamma. key5 key8 seed20260211."
+    },
+    {
+      "doc_id": "DOC-020",
+      "text": "DOC-020 :: alpha beta gamma. key6 key9 seed20260211."
+    },
+    {
+      "doc_id": "DOC-021",
+      "text": "DOC-021 :: alpha beta gamma. key0 key10 seed20260211."
+    },
+    {
+      "doc_id": "DOC-022",
+      "text": "DOC-022 :: alpha beta gamma. key1 key0 seed20260211."
+    },
+    {
+      "doc_id": "DOC-023",
+      "text": "DOC-023 :: alpha beta gamma. key2 key1 seed20260211."
+    },
+    {
+      "doc_id": "DOC-024",
+      "text": "DOC-024 :: alpha beta gamma. key3 key2 seed20260211."
+    },
+    {
+      "doc_id": "DOC-025",
+      "text": "DOC-025 :: alpha beta gamma. key4 key3 seed20260211."
+    },
+    {
+      "doc_id": "DOC-026",
+      "text": "DOC-026 :: alpha beta gamma. key5 key4 seed20260211."
+    },
+    {
+      "doc_id": "DOC-027",
+      "text": "DOC-027 :: alpha beta gamma. key6 key5 seed20260211."
+    },
+    {
+      "doc_id": "DOC-028",
+      "text": "DOC-028 :: alpha beta gamma. key0 key6 seed20260211."
+    },
+    {
+      "doc_id": "DOC-029",
+      "text": "DOC-029 :: alpha beta gamma. key1 key7 seed20260211."
+    },
+    {
+      "doc_id": "DOC-030",
+      "text": "DOC-030 :: alpha beta gamma. key2 key8 seed20260211."
+    },
+    {
+      "doc_id": "DOC-031",
+      "text": "DOC-031 :: alpha beta gamma. key3 key9 seed20260211."
+    },
+    {
+      "doc_id": "DOC-032",
+      "text": "DOC-032 :: alpha beta gamma. key4 key10 seed20260211."
+    },
+    {
+      "doc_id": "DOC-033",
+      "text": "DOC-033 :: alpha beta gamma. key5 key0 seed20260211."
+    },
+    {
+      "doc_id": "DOC-034",
+      "text": "DOC-034 :: alpha beta gamma. key6 key1 seed20260211."
+    },
+    {
+      "doc_id": "DOC-035",
+      "text": "DOC-035 :: alpha beta gamma. key0 key2 seed20260211."
+    },
+    {
+      "doc_id": "DOC-036",
+      "text": "DOC-036 :: alpha beta gamma. key1 key3 seed20260211."
+    },
+    {
+      "doc_id": "DOC-037",
+      "text": "DOC-037 :: alpha beta gamma. key2 key4 seed20260211."
+    },
+    {
+      "doc_id": "DOC-038",
+      "text": "DOC-038 :: alpha beta gamma. key3 key5 seed20260211."
+    },
+    {
+      "doc_id": "DOC-039",
+      "text": "DOC-039 :: alpha beta gamma. key4 key6 seed20260211."
+    },
+    {
+      "doc_id": "DOC-040",
+      "text": "DOC-040 :: alpha beta gamma. key5 key7 seed20260211."
+    },
+    {
+      "doc_id": "DOC-041",
+      "text": "DOC-041 :: alpha beta gamma. key6 key8 seed20260211."
+    },
+    {
+      "doc_id": "DOC-042",
+      "text": "DOC-042 :: alpha beta gamma. key0 key9 seed20260211."
+    },
+    {
+      "doc_id": "DOC-043",
+      "text": "DOC-043 :: alpha beta gamma. key1 key10 seed20260211."
+    },
+    {
+      "doc_id": "DOC-044",
+      "text": "DOC-044 :: alpha beta gamma. key2 key0 seed20260211."
+    },
+    {
+      "doc_id": "DOC-045",
+      "text": "DOC-045 :: alpha beta gamma. key3 key1 seed20260211."
+    },
+    {
+      "doc_id": "DOC-046",
+      "text": "DOC-046 :: alpha beta gamma. key4 key2 seed20260211."
+    },
+    {
+      "doc_id": "DOC-047",
+      "text": "DOC-047 :: alpha beta gamma. key5 key3 seed20260211."
+    },
+    {
+      "doc_id": "DOC-048",
+      "text": "DOC-048 :: alpha beta gamma. key6 key4 seed20260211."
+    },
+    {
+      "doc_id": "DOC-049",
+      "text": "DOC-049 :: alpha beta gamma. key0 key5 seed20260211."
+    }
+  ]
+}

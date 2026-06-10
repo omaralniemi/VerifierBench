@@ -1,0 +1,5 @@
+run_id,agent,injected_tasks,SLA,True_SLA
+VBrun_scale_microbench_300_2026-02-11T064352Z_seed20260211,AgentCorrect,0,,
+VBrun_scale_microbench_300_2026-02-11T064352Z_seed20260211,AgentSelfCheck,0,,
+VBrun_scale_microbench_300_2026-02-11T064352Z_seed20260211,AgentSkip,257,1.0,1.0
+VBrun_scale_microbench_300_2026-02-11T064352Z_seed20260211,AgentWrongTool,0,,

@@ -1,0 +1,7 @@
+agent,taxonomy,count
+AgentCorrect,E0,1497
+AgentSelfCheck,E0,1497
+AgentSkip,E0,1112
+AgentSkip,E1,385
+AgentWrongTool,E0,1407
+AgentWrongTool,E2,90

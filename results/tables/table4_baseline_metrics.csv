@@ -1,0 +1,5 @@
+Agent,Tasks,Steps,ETR,CTR,TCV,E2E,E2E-T
+AgentCorrect,300,1497,1.0,1.0,1.0,1.0,1.0
+AgentSelfCheck,300,1497,1.0,1.0,1.0,1.0,1.0
+AgentSkip,300,1497,0.742819,0.742819,0.742819,0.143333,0.143333
+AgentWrongTool,300,1497,1.0,1.0,1.0,1.0,1.0

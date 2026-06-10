@@ -1,0 +1,41 @@
+[
+  {
+    "manifest_path": "runs/baseline/artifacts_sha256.json",
+    "n_records": 1200,
+    "invalid_hashes": 0,
+    "checked_files": 1200,
+    "missing_files": 0,
+    "mismatched_files": 0,
+    "mode": "file-verification"
+  },
+  {
+    "manifest_path": "runs/inject_E2/artifacts_sha256.json",
+    "n_records": 1200,
+    "invalid_hashes": 0,
+    "checked_files": 1200,
+    "missing_files": 0,
+    "mismatched_files": 0,
+    "mode": "file-verification"
+  },
+  {
+    "manifest_path": "runs/inject_E3/artifacts_sha256.json",
+    "n_records": 0,
+    "invalid_hashes": 0,
+    "checked_files": 0,
+    "missing_files": 0,
+    "mismatched_files": 0,
+    "mode": "manifest-only"
+  },
+  {
+    "file": "data/tasks/microbench_300.json",
+    "sha256": "81a603030523959b27fdae69491f6a547c806ef3dfc97d8619fe1d4d9545d937"
+  },
+  {
+    "file": "data/corpus/manifest.json",
+    "sha256": "15492bdc77b810e9b1c58df2ef955d416f928e51a795619d5bea27828a749947"
+  },
+  {
+    "file": "data/protocol_lock.json",
+    "sha256": "d18147e371f31661a2960ff1e34e648619958a9d6607e70c6868fe31a1dd0cdc"
+  }
+]

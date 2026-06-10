@@ -1,0 +1,13 @@
+agent,tool_used,n_steps,truth_rate,susceptibility
+AgentCorrect,CalcTool,512,1.0,0.0
+AgentCorrect,FileTool,600,1.0,0.0
+AgentCorrect,QueryTool,385,1.0,0.0
+AgentSelfCheck,CalcTool,512,1.0,0.0
+AgentSelfCheck,FileTool,600,1.0,0.0
+AgentSelfCheck,QueryTool,385,1.0,0.0
+AgentSkip,CalcTool,512,1.0,0.0
+AgentSkip,FileTool,600,1.0,0.0
+AgentSkip,QueryTool,385,0.0,1.0
+AgentWrongTool,CalcTool,512,1.0,0.0
+AgentWrongTool,FileTool,600,1.0,0.0
+AgentWrongTool,QueryTool,385,1.0,0.0

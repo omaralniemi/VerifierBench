@@ -1,0 +1,13 @@
+agent,len_bucket,n_steps,ETR
+AgentCorrect,2-3,215,1.0
+AgentCorrect,4-5,387,1.0
+AgentCorrect,6-8,895,1.0
+AgentSelfCheck,2-3,215,1.0
+AgentSelfCheck,4-5,387,1.0
+AgentSelfCheck,6-8,895,1.0
+AgentSkip,2-3,215,0.8
+AgentSkip,4-5,387,0.777778
+AgentSkip,6-8,895,0.713966
+AgentWrongTool,2-3,215,1.0
+AgentWrongTool,4-5,387,1.0
+AgentWrongTool,6-8,895,1.0

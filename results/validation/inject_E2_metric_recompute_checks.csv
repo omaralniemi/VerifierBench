@@ -1,0 +1,13 @@
+agent,metric,supplied,recomputed,pass
+AgentCorrect,ETR,1.0,1.0,True
+AgentCorrect,CTR,1.0,1.0,True
+AgentCorrect,TCV,1.0,1.0,True
+AgentSelfCheck,ETR,1.0,1.0,True
+AgentSelfCheck,CTR,1.0,1.0,True
+AgentSelfCheck,TCV,1.0,1.0,True
+AgentSkip,ETR,0.742819,0.7428189712758851,True
+AgentSkip,CTR,0.742819,0.7428189712758851,True
+AgentSkip,TCV,0.742819,0.7428189712758851,True
+AgentWrongTool,ETR,0.93988,0.9398797595190381,True
+AgentWrongTool,CTR,0.93988,0.9398797595190381,True
+AgentWrongTool,TCV,0.93988,0.9398797595190381,True

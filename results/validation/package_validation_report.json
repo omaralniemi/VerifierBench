@@ -1,0 +1,197 @@
+{
+  "runs": {
+    "baseline": {
+      "path": "runs/baseline/verification_report.csv",
+      "rows": 5988,
+      "agents": [
+        "AgentCorrect",
+        "AgentSelfCheck",
+        "AgentSkip",
+        "AgentWrongTool"
+      ],
+      "tasks": 300,
+      "steps_per_agent": {
+        "AgentCorrect": 1497,
+        "AgentSelfCheck": 1497,
+        "AgentSkip": 1497,
+        "AgentWrongTool": 1497
+      },
+      "taxonomy_labels": [
+        "E0",
+        "E1"
+      ],
+      "evidence_files": {
+        "tasks_json": true,
+        "claims_json": true,
+        "events_jsonl": true,
+        "artifacts_sha256_json": true,
+        "event_records": 5603,
+        "claim_agents": [
+          "AgentCorrect",
+          "AgentSelfCheck",
+          "AgentSkip",
+          "AgentWrongTool"
+        ],
+        "task_agents": [
+          "AgentCorrect",
+          "AgentSelfCheck",
+          "AgentSkip",
+          "AgentWrongTool"
+        ]
+      },
+      "metric_recompute_pass": true
+    },
+    "inject_E2": {
+      "path": "runs/inject_E2/verification_report.csv",
+      "rows": 5988,
+      "agents": [
+        "AgentCorrect",
+        "AgentSelfCheck",
+        "AgentSkip",
+        "AgentWrongTool"
+      ],
+      "tasks": 300,
+      "steps_per_agent": {
+        "AgentCorrect": 1497,
+        "AgentSelfCheck": 1497,
+        "AgentSkip": 1497,
+        "AgentWrongTool": 1497
+      },
+      "taxonomy_labels": [
+        "E0",
+        "E1",
+        "E2"
+      ],
+      "evidence_files": {
+        "tasks_json": true,
+        "claims_json": true,
+        "events_jsonl": true,
+        "artifacts_sha256_json": true,
+        "event_records": 5603,
+        "claim_agents": [
+          "AgentCorrect",
+          "AgentSelfCheck",
+          "AgentSkip",
+          "AgentWrongTool"
+        ],
+        "task_agents": [
+          "AgentCorrect",
+          "AgentSelfCheck",
+          "AgentSkip",
+          "AgentWrongTool"
+        ]
+      },
+      "metric_recompute_pass": true
+    },
+    "inject_E3": {
+      "path": "runs/inject_E3/verification_report.csv",
+      "rows": 5988,
+      "agents": [
+        "AgentCorrect",
+        "AgentSelfCheck",
+        "AgentSkip",
+        "AgentWrongTool"
+      ],
+      "tasks": 300,
+      "steps_per_agent": {
+        "AgentCorrect": 1497,
+        "AgentSelfCheck": 1497,
+        "AgentSkip": 1497,
+        "AgentWrongTool": 1497
+      },
+      "taxonomy_labels": [
+        "E0",
+        "E1",
+        "E3"
+      ],
+      "evidence_files": {
+        "tasks_json": true,
+        "claims_json": true,
+        "events_jsonl": true,
+        "artifacts_sha256_json": true,
+        "event_records": 5603,
+        "claim_agents": [
+          "AgentCorrect",
+          "AgentSelfCheck",
+          "AgentSkip",
+          "AgentWrongTool"
+        ],
+        "task_agents": [
+          "AgentCorrect",
+          "AgentSelfCheck",
+          "AgentSkip",
+          "AgentWrongTool"
+        ]
+      },
+      "metric_recompute_pass": true
+    }
+  },
+  "expected_checks": [
+    {
+      "name": "baseline AgentCorrect ETR",
+      "got": 1.0,
+      "expected": 1.0,
+      "pass": true
+    },
+    {
+      "name": "baseline AgentSkip ETR",
+      "got": 0.742819,
+      "expected": 0.742819,
+      "pass": true
+    },
+    {
+      "name": "baseline AgentSkip E2E",
+      "got": 0.143333,
+      "expected": 0.143333,
+      "pass": true
+    },
+    {
+      "name": "inject_E2 AgentWrongTool ETR",
+      "got": 0.93988,
+      "expected": 0.93988,
+      "pass": true
+    },
+    {
+      "name": "inject_E2 AgentWrongTool E2E",
+      "got": 0.7,
+      "expected": 0.7,
+      "pass": true
+    },
+    {
+      "name": "inject_E3 AgentWrongTool ETR",
+      "got": 0.682699,
+      "expected": 0.682699,
+      "pass": true
+    },
+    {
+      "name": "inject_E3 AgentWrongTool E2E",
+      "got": 0.103333,
+      "expected": 0.103333,
+      "pass": true
+    },
+    {
+      "name": "baseline AgentSkip E1",
+      "got": 385,
+      "expected": 385,
+      "pass": true
+    },
+    {
+      "name": "inject_E2 AgentWrongTool E2",
+      "got": 90,
+      "expected": 90,
+      "pass": true
+    },
+    {
+      "name": "inject_E3 AgentWrongTool E3",
+      "got": 475,
+      "expected": 475,
+      "pass": true
+    }
+  ],
+  "table_outputs": {
+    "results/tables/table4_baseline_metrics.csv": true,
+    "results/tables/table5_perturbation_metrics.csv": true,
+    "results/tables/table6_diagnostic_breakdown.csv": true,
+    "results/tables/table7_evaluator_comparison.csv": true
+  }
+}

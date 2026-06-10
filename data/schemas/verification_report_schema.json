@@ -1,0 +1,26 @@
+{
+  "columns": [
+    "run_id",
+    "agent",
+    "task_id",
+    "step_id",
+    "expected_tool",
+    "expected_op",
+    "expected_relation_type",
+    "matched_event",
+    "event_tool",
+    "event_op",
+    "expected_pass",
+    "expected_fail_reason",
+    "taxonomy",
+    "step_truthful"
+  ],
+  "taxonomy_labels": [
+    "E0",
+    "E1",
+    "E2",
+    "E3",
+    "E6"
+  ],
+  "note": "E3 reports may include an additional args_ok column."
+}

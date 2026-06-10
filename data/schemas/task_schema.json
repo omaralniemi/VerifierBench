@@ -1,0 +1,51 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "MicroBench-300 task list",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": [
+      "task_id",
+      "steps"
+    ],
+    "properties": {
+      "task_id": {
+        "type": "string"
+      },
+      "steps": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "required": [
+            "step_id",
+            "expected_tool",
+            "expected_op",
+            "inputs",
+            "expected_relation_type",
+            "expected_relation"
+          ],
+          "properties": {
+            "step_id": {
+              "type": "integer"
+            },
+            "expected_tool": {
+              "type": "string"
+            },
+            "expected_op": {
+              "type": "string"
+            },
+            "inputs": {
+              "type": "object"
+            },
+            "expected_relation_type": {
+              "type": "string"
+            },
+            "expected_relation": {
+              "type": "object"
+            }
+          }
+        }
+      }
+    }
+  }
+}

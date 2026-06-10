@@ -1,0 +1,6 @@
+timestamp_utc=2026-02-11T18:28:00Z
+run_id=VBrun_scale_microbench_300_2026-02-11T064352Z_seed20260211
+source_report=verification_report_FIXED_V3.csv
+report_sha256=bdac334967eac142ee7b3d06ec67c51322ed7851d725aaaed156d7928a8a0b2b
+rows=5988
+CONSISTENCY_SENSITIVITY_FIXED=PASS

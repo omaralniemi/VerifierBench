@@ -1,0 +1,8 @@
+{
+  "type": "object",
+  "additionalProperties": {
+    "type": "string",
+    "pattern": "^[0-9a-f]{64}$"
+  },
+  "description": "Keys are artifact paths relative to each run directory; values are SHA-256 digests."
+}
